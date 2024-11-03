@@ -1,4 +1,6 @@
 some text
- changes from main - new changes
+ changes from main 
+changes from first
 
 
+Text from main - new changes
